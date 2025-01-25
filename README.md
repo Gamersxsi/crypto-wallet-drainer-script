@@ -1,0 +1,1 @@
+# crypto-wallet-drainer-script
